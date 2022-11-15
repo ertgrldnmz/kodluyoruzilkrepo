@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Bootcamp Hızlandırma Programı Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. 
+Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/)   Bootcamp Hızlandırma Programı Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. 
 ![MYPROJECT](D:\Patikadev_repo\resmi.jpg)
 
 # Installation
